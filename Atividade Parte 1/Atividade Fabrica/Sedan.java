@@ -1,0 +1,3 @@
+interface Sedan {
+    void displayInfo();
+}

@@ -1,0 +1,3 @@
+interface SUV {
+    void displayInfo();
+}
